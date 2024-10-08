@@ -1,0 +1,10 @@
+initiaization - git init
+use details - git config --global user.name ""
+git config --global user.email ""
+git config --list - press q to stop
+git status
+git add -A
+git commit -m "message"
+git remote add name path
+git push origin(name)  master
+
