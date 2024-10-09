@@ -5,6 +5,6 @@ git config --list - press q to stop
 git status
 git add -A
 git commit -m "message"
-git remote add name path
+git remote add name path - we can give any name we like but no repeted names
 git push origin(name)  master
 
